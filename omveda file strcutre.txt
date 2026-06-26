@@ -1,0 +1,65 @@
+omveda/
+│
+├── index.html                          # Main HTML file
+├── style.css                           # All styles
+├── script.js                           # All JavaScript
+├── README.md                           # Documentation
+│
+├── assets/
+│   ├── videos/
+│   │   └── hero-bg.mp4                # Hero background video (optional)
+│   │
+│   ├── images/
+│   │   ├── logo.svg                   # Navbar logo (transparent)
+│   │   ├── logo-white.svg             # Footer logo (white version)
+│   │   ├── hero-bg.jpg                # Hero fallback image
+│   │   ├── about-pandit.jpg           # About section image
+│   │   ├── placeholder.jpg            # General fallback image
+│   │   │
+│   │   ├── services/                  # Service images (21 images)
+│   │   │   ├── satyanarayan.jpg
+│   │   │   ├── ganesh.jpg
+│   │   │   ├── lakshmi.jpg
+│   │   │   ├── griha-pravesh.jpg
+│   │   │   ├── vastu.jpg
+│   │   │   ├── navagraha.jpg
+│   │   │   ├── mrityunjaya.jpg
+│   │   │   ├── rudrabhishek.jpg
+│   │   │   ├── wedding.jpg
+│   │   │   ├── engagement.jpg
+│   │   │   ├── baby-naming.jpg
+│   │   │   ├── thread.jpg
+│   │   │   ├── pitru.jpg
+│   │   │   ├── kaal-sarp.jpg
+│   │   │   ├── navchandi.jpg
+│   │   │   ├── durga.jpg
+│   │   │   ├── hanuman.jpg
+│   │   │   ├── office-opening.jpg
+│   │   │   ├── vehicle.jpg
+│   │   │   ├── bhoomi-pujan.jpg
+│   │   │   └── mundan.jpg
+│   │   │
+│   │   ├── clients/                   # Testimonial client photos (3 images)
+│   │   │   ├── ramesh-raut.jpg
+│   │   │   ├── arun-iyer.jpg
+│   │   │   └── priya-sharma.jpg
+│   │   │
+│   │   ├── pandits/                   # Pandit team photos (3 images)
+│   │   │   ├── pandit-1.jpg
+│   │   │   ├── pandit-2.jpg
+│   │   │   └── pandit-3.jpg
+│   │   │
+│   │   └── gallery/                   # Gallery images (8 images)
+│   │       ├── gallery-1.jpg
+│   │       ├── gallery-2.jpg
+│   │       ├── gallery-3.jpg
+│   │       ├── gallery-4.jpg
+│   │       ├── gallery-5.jpg
+│   │       ├── gallery-6.jpg
+│   │       ├── gallery-7.jpg
+│   │       └── gallery-8.jpg
+│   │
+│   └── fonts/                         # Custom fonts (optional)
+│       └── (font files)
+│
+└── .gitignore                         # Git ignore file (optional)
